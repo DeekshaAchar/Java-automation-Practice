@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-13T23:14:46 IST" name="Default suite" finished-at="2025-03-13T23:14:53 IST" duration-ms="6497">
+    <groups>
+    </groups>
+    <test started-at="2025-03-13T23:14:46 IST" name="Default test" finished-at="2025-03-13T23:14:53 IST" duration-ms="6497">
+      <class name="tutorialsNinja.register.TC_RF_001">
+        <test-method signature="VerifyRegisterWithMandatoryFields()[pri:0, instance:tutorialsNinja.register.TC_RF_001@4b45a2f5]" started-at="2025-03-13T23:14:46 IST" name="VerifyRegisterWithMandatoryFields" finished-at="2025-03-13T23:14:53 IST" duration-ms="6441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterWithMandatoryFields -->
+      </class> <!-- tutorialsNinja.register.TC_RF_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
